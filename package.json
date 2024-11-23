@@ -1,6 +1,7 @@
 {
 	"author": "ALEXANDER",
 	"description": " PROYECTO TEST",
+	"keywords": [ "descriptive", "related", "palabras" ]
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
